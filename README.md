@@ -1,2 +1,2 @@
-# booklover
-A package created in DS 5100 for the BookLover class we created in M08
+# BOOKLOVER
+Booklover is a package created in DS 5100 (UVADS: Programming for Data Science)for the BookLover class created in M08
