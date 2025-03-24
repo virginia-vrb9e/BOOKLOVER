@@ -36,7 +36,7 @@ class BookLover:
             a rating from 1 - 5 with 1 being the lowest rating and 5 the highest
         """
         
-        if book_name in self.book_list["book_name"].values: #indexing into dictionary key vector
+        if book_name in self.book_list["book_name"].values.tolist(): #indexing into dictionary key vector
             print(f"You've already added '{book_name}' to your list.")
             return
         
